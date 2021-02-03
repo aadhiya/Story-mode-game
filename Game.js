@@ -129,4 +129,5 @@ class Game {
 
   }
 }
+   drawSprites();
 }
